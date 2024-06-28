@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on my personal [blog](https://blog.dileepkushwaha.com)
-- 🌱 I’m currently learning Kubernetes for CKA certification and Golang
+- 🌱 I’m currently learning Kubernetes for CKS certification and Golang
 - 👯 I’m looking to collaborate on OSS related to Cloud and edge computing
 - 🤔 I’m looking for help with programming with golang
 - 💬 Ask me about VLSI, cloud computing
