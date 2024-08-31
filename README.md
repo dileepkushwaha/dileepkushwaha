@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my personal [blog](https://blog.dileepkushwaha.com)
 - 🌱 I’m currently learning Kubernetes for CKS certification and Golang
 - 👯 I’m looking to collaborate on OSS related to Cloud and edge computing
-- 🤔 I’m looking for help with programming with golang
+- 🚗 Building EV charging app @ chargeking.in
+- 🤔 I’m looking for help with programming in golang
 - 💬 Ask me about VLSI, cloud computing
 - 📫 How to reach me: [![Twitter Badge](https://img.shields.io/twitter/follow/idileepkushwaha?style=social)](https://twitter.com/idileepkushwaha)
 
