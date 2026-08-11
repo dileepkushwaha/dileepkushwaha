@@ -2,7 +2,7 @@
 
 <!--
 **dileepkushwaha/dileepkushwaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fidileepkushwaha
+- https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fkushwahadileep_
 - ⚡ Fun fact: ...
 Here are some ideas to get you started:
 -->
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 🚗 Building EV charging app @ chargeking.in
 - 🤔 I’m looking for help with programming in golang
 - 💬 Ask me about VLSI, cloud computing
-- 📫 How to reach me: [![Twitter Badge](https://img.shields.io/twitter/follow/idileepkushwaha?style=social)](https://twitter.com/idileepkushwaha)
+- 📫 How to reach me: [![Twitter Badge](https://img.shields.io/twitter/follow/kushwahadileep_?style=social)](https://twitter.com/kushwahadileep_)
 
