@@ -31,6 +31,6 @@ Master’s in VLSI Design
 
 ### 🌐
 
-[Website](https://dileepkushwaha.com) · [LinkedIn](https://www.linkedin.com/in/dileepkushwaha/) · [GitHub](https://github.com/dileepkushwaha · [Blog](https://github.com/blog.dileepkushwaha.com))
+[Website](https://dileepkushwaha.com) · [LinkedIn](https://www.linkedin.com/in/dileepkushwaha/) · [GitHub](https://github.com/dileepkushwaha) · [Blog](https://github.com/blog.dileepkushwaha.com)
 
 
